@@ -1,9 +1,11 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\RayCastWhile.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\NYC.cs">
     <Files>
-      <File FileName="Assets\RayCast.cs" Line="23" Column="3" />
-      <File FileName="Assets\RayCastWhile.cs" Line="17" Column="20" />
+      <File FileName="Assets\TenPrint.cs" Line="28" Column="4" />
+      <File FileName="Assets\RayCastWhile.cs" Line="16" Column="17" />
+      <File FileName="Assets\NYC.cs" Line="44" Column="34" />
+      <File FileName="..\week5\Assets\C\boatMain.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
